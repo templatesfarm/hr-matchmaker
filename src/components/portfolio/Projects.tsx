@@ -1,7 +1,7 @@
 import React from "react";
 import { usePortfolioStore } from "@/store/usePortfolioStore";
 import { useAppStore } from "@/store/appStore";
-import { ProjectsTimelineWithAuth } from "portfolioui/hr-favorite";
+import { ProjectsEditableWithAuth } from "portfolioui/hr-matchmaker";
 
 export const Projects = () => {
   const {
@@ -11,7 +11,7 @@ export const Projects = () => {
   } = usePortfolioStore();
   const { isEditing } = useAppStore();
   return (
-    <ProjectsTimelineWithAuth
+    <ProjectsEditableWithAuth
       isEditing={isEditing}
       saveProjectAndQualificationInfo={saveProjectAndQualificationInfo}
       projectsInfo={projectsInfo}

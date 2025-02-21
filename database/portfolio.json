@@ -21,7 +21,7 @@
     "introduction": "I  am  Aryan,  Frontend  Engineer ",
     "description": "Aspiring Frontend Engineer passionate about building interactive and responsive web applications. Currently in my final year of B.Tech, gaining real-world experience through an internship in UI/UX development."
   },
-   "skillsInfo": {
+  "skillsInfo": {
     "displayName": "Specialization",
     "skills": [
       {
@@ -115,7 +115,7 @@
         "rating": 5
       }
     ],
-    "skillAnimationType": "moving-animation"
+    "skillAnimationType": "still-animation"
   },
   "achievementsInfo": {
     "displayName": "Achievements",

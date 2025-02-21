@@ -21,47 +21,130 @@
     "introduction": "I  am  Aryan,  Frontend  Engineer ",
     "description": "Aspiring Frontend Engineer passionate about building interactive and responsive web applications. Currently in my final year of B.Tech, gaining real-world experience through an internship in UI/UX development."
   },
-  "skillsInfo": {
-    "displayName": "Tools",
+   "skillsInfo": {
+    "displayName": "Specialization",
     "skills": [
       {
+        "id": "1740119643767",
+        "name": "Github Actions",
+        "rating": 8.5
+      },
+      {
+        "id": "1740119645963",
+        "name": "Aceternity UI",
+        "rating": 9.5
+      },
+      {
+        "id": "1740151697699",
         "name": "TypeScript",
         "rating": 8.5
       },
       {
-        "name": "JavaScript",
-        "rating": 10
-      },
-      {
-        "name": "NextJS",
-        "rating": 8.5
-      },
-      {
-        "name": "Tailwind CSS",
+        "id": "1740151709959",
+        "name": "Shadcn UI",
         "rating": 7.5
       },
       {
-        "name": "Material UI",
+        "id": "1740151713824",
+        "name": "Vercel",
+        "rating": 9
+      },
+      {
+        "id": "1740151723790",
+        "name": "People Management",
+        "rating": 8.5
+      },
+      {
+        "id": "1740155431358",
+        "name": "Google Gemini",
         "rating": 8
       },
       {
-        "name": "ReactJS",
-        "rating": 8.5
+        "id": "1740155437089",
+        "name": "ChatGPT",
+        "rating": 8
       },
       {
-        "name": "Angular",
-        "rating": 8.5
+        "id": "1740155442637",
+        "name": "AI Tools",
+        "rating": 8
       },
       {
-        "name": "Responsive Web Design",
-        "rating": 6.5
+        "id": "1740155446851",
+        "name": "Java",
+        "rating": 5
       },
       {
-        "name": "UI/UX Design",
-        "rating": 8.5
+        "id": "1740155451149",
+        "name": "Typescript",
+        "rating": 5
+      },
+      {
+        "id": "1740155464239",
+        "name": "GoLang",
+        "rating": 9
+      },
+      {
+        "id": "1740155468891",
+        "name": "Magic UI",
+        "rating": 5
+      },
+      {
+        "id": "1740155473903",
+        "name": "Aceternity UI",
+        "rating": 5
+      },
+      {
+        "id": "1740155477177",
+        "name": "Origin UI",
+        "rating": 5
+      },
+      {
+        "id": "1740155479902",
+        "name": "React",
+        "rating": 5
+      },
+      {
+        "id": "1740155482925",
+        "name": "React Native",
+        "rating": 5
+      },
+      {
+        "id": "1740155487583",
+        "name": "VS COde",
+        "rating": 5
       }
     ],
-    "showMovingSkills": true
+    "skillAnimationType": "moving-animation"
+  },
+  "achievementsInfo": {
+    "displayName": "Achievements",
+    "listOfAchievements": [
+      {
+        "id": "1740113192880",
+        "text": "Data Science",
+        "type": "award",
+        "name": "Data Science",
+        "rating": "certificate"
+      },
+      {
+        "id": "1740113167269",
+        "text": "Employee of the Month",
+        "type": "other"
+      },
+      {
+        "id": "1740113198809",
+        "text": "AI Course",
+        "type": "certificate",
+        "name": "AI Coursesdf",
+        "rating": "other"
+      },
+      {
+        "id": "1740113207745",
+        "text": "Digital Marketing Leader in College",
+        "type": "award"
+      }
+    ]
   },
   "projectsInfo": {
     "displayName": "Timeline",

@@ -1,0 +1,181 @@
+{
+  "personalInfo": {
+    "displayName": "",
+    "name": "Aryan Altman",
+    "contactNumber": "9876543210",
+    "email": "aryanaltman@gmail.com",
+    "socialMedia": {
+      "linkedIn": "https://www.linkedin.com/",
+      "github": "https://github.com/",
+      "youtube": "https://www.youtube.com/",
+      "xdotcom": "",
+      "instagram": "https://www.instagram.com/",
+      "facebook": ""
+    },
+    "resumeName": "AryanAltman-CV.pdf",
+    "gender": "Male"
+  },
+  "heroInfo": {
+    "displayName": "",
+    "message": "Hey, Nice to Meet You!",
+    "introduction": "I  am  Aryan,  Frontend  Engineer ",
+    "description": "Aspiring Frontend Engineer passionate about building interactive and responsive web applications. Currently in my final year of B.Tech, gaining real-world experience through an internship in UI/UX development."
+  },
+  "skillsInfo": {
+    "displayName": "Specialization",
+    "skills": [
+      {
+        "id": "1740394301578",
+        "name": "Frontend Development",
+        "rating": 8
+      },
+      {
+        "id": "1740394308894",
+        "name": "HTML5 & CSS3",
+        "rating": 5
+      },
+      {
+        "id": "1740394319794",
+        "name": "JavaScript (ES6+)",
+        "rating": 6
+      },
+      {
+        "id": "1740394329861",
+        "name": "React.js",
+        "rating": 6.5
+      },
+      {
+        "id": "1740394338145",
+        "name": "Next.js",
+        "rating": 7
+      },
+      {
+        "id": "1740394345978",
+        "name": "TypeScript",
+        "rating": 7.5
+      },
+      {
+        "id": "1740394353778",
+        "name": "Tailwind CSS & Bootstrap",
+        "rating": 8.5
+      },
+      {
+        "id": "1740394362194",
+        "name": "Redux & Context API",
+        "rating": 8
+      },
+      {
+        "id": "1740394370228",
+        "name": "Responsive Web Design",
+        "rating": 9
+      },
+      {
+        "id": "1740394378428",
+        "name": "UI/UX Design (Figma, Adobe XD)",
+        "rating": 9.5
+      }
+    ],
+    "skillAnimationType": "moving-animation"
+  },
+  "achievementsInfo": {
+    "displayName": "Achievements",
+    "listOfAchievements": [
+      {
+        "id": "1740330556198",
+        "text": "JavaScript Algorithms and Data Structures – FreeCodeCamp certification.",
+        "type": "certificate"
+      },
+      {
+        "id": "1740330571591",
+        "text": "Secured a place in the top 20 at College Hackathon 2024, showcasing frontend development skills and received a certificate of achievement.",
+        "type": "certificate"
+      },
+      {
+        "id": "1740330605892",
+        "text": "Top 10 Finalist – Google UI/UX Design Challenge – Recognized for building an intuitive web interface.",
+        "type": "other"
+      }
+    ]
+  },
+  "projectsInfo": {
+    "displayName": "Timeline",
+    "projects": [
+      {
+        "timeline": "Jan'24 – Present",
+        "projectName": "Zomato Web UI Redesign",
+        "headline1": " Enhancing the UI/UX of Zomato's web platform.",
+        "headline2": "Improved page load speed by 30% using lazy loading & code splitting.",
+        "designation": "Frontend Engineering Intern",
+        "link": {
+          "linkText": "Link",
+          "linkUrl": "https://originui.com/badge"
+        },
+        "skills": "React.js, Next.js, Tailwind CSS, TypeScript, Web Performance Optimization",
+        "companyName": "Zomato",
+        "images": [
+          {
+            "fileName": "fe2.jpg",
+            "fileUrl": "https://raw.githubusercontent.com/templatesfarm/hr-matchmaker/master/images/fe2.jpg"
+          },
+          {
+            "fileName": "fe3.png",
+            "fileUrl": "https://raw.githubusercontent.com/templatesfarm/hr-matchmaker/master/images/fe3.png"
+          }
+        ]
+      }
+    ]
+  },
+  "qualificationInfo": {
+    "displayName": "Qualifications",
+    "qualifications": [
+      {
+        "timeline": "2020-Present",
+        "courseName": "Bachelor of Technology (B.Tech) in Computer Science",
+        "instituteName": "Vellore Institute of Technology (VIT), Vellore",
+        "specializedIn": "Frontend Development & UI/UX",
+        "yearPassout": "2024",
+        "headline1": "Currently pursuing B.Tech in Computer Science.",
+        "headline2": "Developing real-world projects as part of coursework.",
+        "cgpa": "8.9",
+        "link": {
+          "linkText": "Link",
+          "linkUrl": "https://originui.com/badge"
+        },
+        "images": [],
+        "rank": "2"
+      },
+      {
+        "timeline": "2018-2020",
+        "courseName": "Higher Secondary Education (12th Grade)",
+        "instituteName": "Delhi Public School, Noida",
+        "specializedIn": "Science (PCM + Computer Science)",
+        "yearPassout": "",
+        "headline1": "Built a basic e-commerce website as a school project.",
+        "headline2": "Won 1st place in the inter-school coding competition.",
+        "cgpa": "91%",
+        "link": {
+          "linkText": "",
+          "linkUrl": ""
+        },
+        "images": [],
+        "rank": "3"
+      },
+      {
+        "timeline": "2016-2018",
+        "courseName": "Secondary Education (10th Grade)",
+        "instituteName": "Delhi Public School, Noida",
+        "specializedIn": "",
+        "yearPassout": "",
+        "headline1": "Scored full marks in Computer Science.",
+        "headline2": "Participated in multiple hackathons at school level.",
+        "cgpa": "94%",
+        "link": {
+          "linkText": "",
+          "linkUrl": ""
+        },
+        "images": [],
+        "rank": "4"
+      }
+    ]
+  }
+}

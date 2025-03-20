@@ -1,0 +1,139 @@
+{
+  "personalInfo": {
+    "displayName": "",
+    "name": "Aryan",
+    "contactNumber": "9876543210",
+    "email": "aryan@gmail.com",
+    "socialMedia": {
+      "linkedIn": "https://www.linkedin.com/",
+      "github": "https://github.com/",
+      "youtube": "https://www.youtube.com/",
+      "xdotcom": "",
+      "instagram": "https://www.instagram.com/",
+      "facebook": ""
+    },
+    "resumeName": "Aryan_CV.pdf",
+    "gender": "Male"
+  },
+  "heroInfo": {
+    "displayName": "",
+    "message": "Hey, Nice to Meet You!",
+    "introduction": "I  am  Aryan,  Frontend  Engineer ",
+    "description": "Aspiring Frontend Engineer passionate about building interactive and responsive web applications. Currently in my final year of B.Tech, gaining real-world experience through an internship in UI/UX development."
+  },
+  "skillsInfo": {
+    "displayName": "Tools",
+    "skills": [
+      {
+        "name": "TypeScript",
+        "rating": 8.5
+      },
+      {
+        "name": "JavaScript",
+        "rating": 10
+      },
+      {
+        "name": "NextJS",
+        "rating": 8.5
+      },
+      {
+        "name": "Tailwind CSS",
+        "rating": 7.5
+      },
+      {
+        "name": "Material UI",
+        "rating": 8
+      },
+      {
+        "name": "ReactJS",
+        "rating": 8.5
+      },
+      {
+        "name": "Angular",
+        "rating": 8.5
+      },
+      {
+        "name": "Responsive Web Design",
+        "rating": 6.5
+      },
+      {
+        "name": "UI/UX Design",
+        "rating": 8.5
+      }
+    ],
+    "showMovingSkills": true
+  },
+  "projectsInfo": {
+    "displayName": "Timeline",
+    "projects": [
+      {
+        "timeline": "Jan'24 – Present",
+        "projectName": "Zomato Web UI Redesign",
+        "headline1": " Enhancing the UI/UX of Zomato's web platform.",
+        "headline2": "Improved page load speed by 30% using lazy loading & code splitting.",
+        "designation": "Frontend Engineering Intern",
+        "link": {
+          "linkText": "Link",
+          "linkUrl": "https://originui.com/badge"
+        },
+        "skills": "React.js, Next.js, Tailwind CSS, TypeScript, Web Performance Optimization",
+        "companyName": "Zomato",
+        "images": [
+        ]
+      }
+    ]
+  },
+  "qualificationInfo": {
+    "displayName": "Qualifications",
+    "qualifications": [
+      {
+        "timeline": "2020-Present",
+        "courseName": "Bachelor of Technology (B.Tech) in Computer Science",
+        "instituteName": "Vellore Institute of Technology (VIT), Vellore",
+        "specializedIn": "Frontend Development & UI/UX",
+        "yearPassout": "2024",
+        "headline1": "Currently pursuing B.Tech in Computer Science.",
+        "headline2": "Developing real-world projects as part of coursework.",
+        "cgpa": "8.9",
+        "link": {
+          "linkText": "Link",
+          "linkUrl": "https://originui.com/badge"
+        },
+        "images": [],
+        "rank": "2"
+      },
+      {
+        "timeline": "2018-2020",
+        "courseName": "Higher Secondary Education (12th Grade)",
+        "instituteName": "Delhi Public School, Noida",
+        "specializedIn": "Science (PCM + Computer Science)",
+        "yearPassout": "",
+        "headline1": "Built a basic e-commerce website as a school project.",
+        "headline2": "Won 1st place in the inter-school coding competition.",
+        "cgpa": "91%",
+        "link": {
+          "linkText": "",
+          "linkUrl": ""
+        },
+        "images": [],
+        "rank": "3"
+      },
+      {
+        "timeline": "2016-2018",
+        "courseName": "Secondary Education (10th Grade)",
+        "instituteName": "Delhi Public School, Noida",
+        "specializedIn": "",
+        "yearPassout": "",
+        "headline1": "Scored full marks in Computer Science.",
+        "headline2": "Participated in multiple hackathons at school level.",
+        "cgpa": "94%",
+        "link": {
+          "linkText": "",
+          "linkUrl": ""
+        },
+        "images": [],
+        "rank": "4"
+      }
+    ]
+  }
+}

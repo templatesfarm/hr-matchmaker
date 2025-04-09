@@ -81,29 +81,9 @@
     "displayName": "Achievements",
     "listOfAchievements": [
       {
-        "id": "1740419571264",
-        "text": "Received the Best Research Paper Award for significant contributions to artificial intelligence applications in education, with the research published in a renowned international journal.",
+        "id": "1744187124370",
+        "text": "Developed a real-time event management dashboard using React and Firebase; awarded 1st place among 20+ teams at [College/University Name].",
         "type": "award"
-      },
-      {
-        "id": "1740419582546",
-        "text": "Successfully completed the Stanford University Machine Learning Certification, gaining expertise in supervised and unsupervised learning, deep learning, and AI-driven decision-making.",
-        "type": "certificate"
-      },
-      {
-        "id": "1740419590962",
-        "text": "Invited as a keynote speaker at the National Education Summit, where I delivered a session on the impact of AI and big data in modern educational methodologies.",
-        "type": "other"
-      },
-      {
-        "id": "1740419599529",
-        "text": "Honored with the Distinguished Professor Award by a prestigious university in recognition of excellence in research, teaching, and academic leadership.",
-        "type": "award"
-      },
-      {
-        "id": "1740419611379",
-        "text": "Mentored over 50 Ph.D. and Master’s students, guiding research scholars in various domains including artificial intelligence, cybersecurity, and blockchain applications.",
-        "type": "other"
       }
     ]
   },

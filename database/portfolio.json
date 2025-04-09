@@ -82,8 +82,18 @@
     "listOfAchievements": [
       {
         "id": "1744187124370",
-        "text": "Developed a real-time event management dashboard using React and Firebase; awarded 1st place among 20+ teams at [College/University Name].",
+        "text": "Received the “Best Mini Project” award in the 7th semester for developing a weather forecasting app using React, Tailwind CSS, and OpenWeatherMap API.",
         "type": "award"
+      },
+      {
+        "id": "1744187228353",
+        "text": "Won 1st place in a college-level Frontend Development Hackathon by building a real-time event management dashboard using React and Firebase.",
+        "type": "award"
+      },
+      {
+        "id": "1744187243253",
+        "text": "Completed the “Meta Front-End Developer” professional certification on Coursera, covering topics like React, version control, testing, and accessibility.",
+        "type": "certificate"
       }
     ]
   },

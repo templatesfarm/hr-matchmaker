@@ -63,6 +63,16 @@
         "id": "1744186960835",
         "name": "Bootstrap",
         "rating": 8
+      },
+      {
+        "id": "1744187044437",
+        "name": "Figma",
+        "rating": 8.5
+      },
+      {
+        "id": "1744187068436",
+        "name": "Material UI",
+        "rating": 8
       }
     ],
     "skillAnimationType": "moving-animation"

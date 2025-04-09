@@ -22,13 +22,8 @@
     "description": "Aspiring Frontend Engineer passionate about building interactive and responsive web applications. Currently in my final year of B.Tech, gaining real-world experience through an internship in UI/UX development."
   },
   "skillsInfo": {
-    "displayName": "Tools",
+    "displayName": "Skills",
     "skills": [
-      {
-        "id": "1740395651799",
-        "name": "React Native",
-        "rating": 7
-      },
       {
         "id": "1740395657898",
         "name": "ReactJS",
@@ -40,19 +35,9 @@
         "rating": 8
       },
       {
-        "id": "1740395667382",
-        "name": "Redux",
-        "rating": 8
-      },
-      {
         "id": "1740395676065",
         "name": "CSS",
         "rating": 8.5
-      },
-      {
-        "id": "1740395685031",
-        "name": "SASS/SCSS",
-        "rating": 7.5
       },
       {
         "id": "1740395695702",
@@ -60,47 +45,27 @@
         "rating": 7.5
       },
       {
-        "id": "1740395714800",
-        "name": "Bootstrap",
-        "rating": 8
-      },
-      {
-        "id": "1740395723281",
-        "name": "Adobe Experience Manager",
-        "rating": 8.5
-      },
-      {
-        "id": "1742281623613",
-        "name": "GraphQL",
-        "rating": 8
-      },
-      {
         "id": "1740395757214",
-        "name": "Git",
+        "name": "GitHub",
         "rating": 8.5
       },
       {
-        "id": "1742461688521",
-        "name": "Google Tag Manager",
+        "id": "1744186932586",
+        "name": "NextJS",
         "rating": 8
       },
       {
-        "id": "1742461698962",
-        "name": "Google Analytics",
+        "id": "1744186946303",
+        "name": "Tailwind CSS",
         "rating": 8
       },
       {
-        "id": "1742461741312",
-        "name": "Bitbucket",
-        "rating": 8
-      },
-      {
-        "id": "1742461749200",
-        "name": "Jira",
+        "id": "1744186960835",
+        "name": "Bootstrap",
         "rating": 8
       }
     ],
-    "skillAnimationType": "still-animation"
+    "skillAnimationType": "moving-animation"
   },
   "achievementsInfo": {
     "displayName": "Achievements",
